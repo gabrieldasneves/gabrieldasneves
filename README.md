@@ -2,10 +2,6 @@
 
 ## A science enthusiast, engineering lover, backpacker, surfing lover, amateur musician and lover of social causes
 
-<!--
-**gabrieldasneves/gabrieldasneves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 I’m currently working on https://www.itegra.com.br/
 - 🌱 I’m currently learning Machine learning, WEB-DEV and Embedded Systems
 - 👯 I’m looking to collaborate on meaningful projects 
