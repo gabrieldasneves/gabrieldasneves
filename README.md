@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Gabriel das Neves
 
+![](https://media.giphy.com/media/FRuActlQlBqWA/giphy.gif)
+
 ## A science enthusiast, engineering lover, backpacker, surfing lover, amateur musician and lover of social causes
 
 - 🔭 I’m currently working on https://www.itegra.com.br/
