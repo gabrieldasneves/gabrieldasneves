@@ -9,11 +9,6 @@
 - 📫 How to reach me: https://gabrieldasneves.github.io/
 - ⚡ Fun fact: I love surfing and, at the same time, studying physics! 😄 
 
-<h3>Things I like to code with</h3>
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
 ![](https://media.giphy.com/media/FRuActlQlBqWA/giphy.gif)
 
 
