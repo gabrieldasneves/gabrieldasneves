@@ -2,7 +2,7 @@
 
 ## A science enthusiast, engineering lover, backpacker, surfing lover, amateur musician and lover of social causes
 
-- 🔭 I’m currently working on https://www.itegra.com.br/
+- 🔭 I’m currently working on https://www.ambev.com.br/
 - 🌱 I’m currently learning Machine learning, WEB-DEV and Embedded Systems
 - 👯 I’m looking to collaborate on meaningful projects 
 - 💬 Ask me about any topic so we can learn together!
