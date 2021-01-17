@@ -9,6 +9,6 @@
 - 📫 How to reach me: https://gabrieldasneves.github.io/
 - ⚡ Fun fact: I love surfing and, at the same time, studying physics! 😄 
 
-![](https://media.giphy.com/media/FRuActlQlBqWA/giphy.gif)
+![](https://media.giphy.com/media/gZBYbXHtVcYKs/giphy.gif)
 
 
