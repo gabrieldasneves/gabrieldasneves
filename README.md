@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on meaningful projects 
 - 💬 Ask me about any topic so we can learn together!
 - 📫 How to reach me: https://gabrieldasneves.github.io/
-- ⚡ Fun fact: I love surfing and, at the same time, studying physics! 😄 
+- ⚡ Fun fact: I love sports like surfing and studying science in general (computing, physics, etc)! 😄 
 
 ![](https://media.giphy.com/media/gZBYbXHtVcYKs/giphy.gif)
 
