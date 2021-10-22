@@ -2,8 +2,7 @@
 
 ## A science enthusiast, engineering lover, backpacker, surfing lover, amateur musician and lover of social causes
 
-- 🔭 I’m currently working here  --> https://www.ambev.com.br/
-- 🌱 I’m interested in Machine learning, data visualization, WEB-DEV and Embedded Systems
+- 🌱 I’m interested in Machine learning, data visualization and WEB-DEV 
 - 👯 I’m looking to collaborate on meaningful projects 
 - 💬 Ask me about any topic so we can learn together!
 - 📫 How to reach me: https://gabrieldasneves.github.io/
