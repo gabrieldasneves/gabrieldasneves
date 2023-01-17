@@ -8,6 +8,6 @@
 - 📫 How to reach me: https://gabrieldasneves.github.io/Business-card/
 - ⚡ Fun fact: I love sports like surfing and i'm fascinated by studying science in general (computing, physics, etc)! 😄 
 
-![]([https://media1.giphy.com/media/1C8bHHJturSx2/200w.webp?cid=ecf05e4702u342081b3zh0srbda4iseu79wp7vrhuyb4xa0j&rid=200w.webp&ct=g](https://giphy.com/gifs/GitHub-ok-thumbs-up-thumb-NytMLKyiaIh6VH9SPm))
+![](https://giphy.com/gifs/GitHub-ok-thumbs-up-thumb-NytMLKyiaIh6VH9SPm)
 
 
