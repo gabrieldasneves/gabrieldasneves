@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Gabriel das Neves
 
-## A science enthusiast, engineering lover, backpacker, surfing lover and amateur musician 
+## Brazilian Programmer, caught between the black screen and good waves
 
 - 🌱 I’m interested in data visualization and WEB-DEV 
 - 👯 I’m looking to collaborate on meaningful projects 
