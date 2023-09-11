@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Gabriel das Neves
 
-## Brazilian programmer, caught between the black screen and skate lanes
+## Brazilian engineer, caught between the black screen and skate lanes
 
 - 🌱 I’m interested in data visualization and WEB-DEV 
 - 👯 I’m looking to collaborate on meaningful projects 
