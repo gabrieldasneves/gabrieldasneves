@@ -1,15 +1,30 @@
-### Hey! I'm Gabriel 👋
+## Hey! I'm Gabriel 
 
-## Brazilian engineer mixing clean code, good UX, and a bit of skate culture.
+I design and develop systems that combine AI + data visualization + interactive UX to help people explore and understand information from real-world datasets to scientific domains like paleontology.
 
-🌱 I build with TypeScript, React/Next.js, React Native, Node.js & AI tools.
+### I'm focused on
 
-🦴 Fascinated by paleontology — from dinosaurs to evolutionary history.
+- AI-powered tools (LLMs, automation, intelligent systems)
+- Data visualization & exploratory interfaces
+- Fullstack systems (TypeScript, React/Next.js, Node.js)
 
-👯 Always open to collaborating on meaningful, creative projects.
+### Featured Work
+🧠 Archon-viz
 
-💬 Ask me about dev, UX, science, or prehistoric creatures.
+Interactive platform to explore hierarchical and complex data structures through visual interfaces.
 
-⚡ Fun fact: If I’m not coding, I'm surfing, skating, or reading about ancient life.
+🦖 DigFinder
 
-###
+Mobile app for logging, mapping, and sharing fossil discoveries — designed for field exploration.
+
+🤖 AI Code Tools
+
+Experiments with LLMs for code analysis, feedback, and developer productivity.
+
+### Fun fact
+
+Outside of tech, I study paleontology and I’m working toward building tools that support real scientific research.
+
+### Let’s connect
+
+Open to roles and collaborations in AI, data visualization, and fullstack systems.
